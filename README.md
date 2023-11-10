@@ -13,9 +13,9 @@ The model is an ARIMA (AutoRegressive Integrated Moving Average) time series for
 ## How to Run
 To run this project, you need to have Python installed on your machine along with the necessary libraries.
 
-1. Clone the repository.
-2. Install the required packages.
-3. Run the Jupyter notebook:
+1. Clone the repository: `git clone https://maximk-8/Fetch_OA.git`
+2. Install the required packages: `pip install -r requirements.txt`
+3. Run the Jupyter notebook: `jupyter notebook`
 
 ## Methodology
 The notebook `Fetch.ipynb` contains detailed explanations and comments for each step of the model development process.
