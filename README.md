@@ -18,7 +18,7 @@ To run this project, you need to have Python installed on your machine along wit
 3. Run the Jupyter notebook:
 
 ## Methodology
-The models was built from scratch without using high-level libraries like scikit-learn to showcase the ML skills. The notebook `Fetch.ipynb` contains detailed explanations and comments for each step of the model development process.
+The notebook `Fetch.ipynb` contains detailed explanations and comments for each step of the model development process.
 
 ## Evaluation
 The model's performance was evaluated using cross-validation on the 2021 data, and the best-performing model was selected for the final forecasting.
